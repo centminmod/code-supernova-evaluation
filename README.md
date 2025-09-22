@@ -37,7 +37,9 @@ The 19 AI LLM models evaluated are (including costs for usage):
 
 **Note:**
 
-You can easily replicate these tests asking AI LLM models to summarize/analyse your code bases/scripts and save their responses to markdown files. Then feed their responses into AI LLM models for evaluation.
+* You can easily replicate these tests asking AI LLM models to summarize/analyse your code bases/scripts and save their responses to markdown files. Then feed their responses into AI LLM models for evaluation.
+* Sonoma Sky Alpha were early test versions of Grok 4 Fast https://openrouter.ai/openrouter/sonoma-sky-alpha
+* Sonoma Dusk Alpha were early test versions of Grok 4 Fast https://openrouter.ai/openrouter/sonoma-dusk-alpha
 
 ## Overall Rankings Table
 
