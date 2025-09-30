@@ -1,3 +1,5 @@
+Updated ranking with Claude Sonnet 4.5 and newer models at https://github.com/centminmod/claude-sonnet-4.5-evaluation
+
 Code-Supernova is new stealth LLM model released for free with Cline and Kilo Code and xAI Grok 4 Fast was also released. I wanted to test them for code analysis for my csfa.sh nftables wrapper script and GitHub workflow action test against other LLM models I use. This is for code analysis and not code generation. Code analysis would be useful for understanding code bases, writing documentation, troubleshooting code and planning.
 
 > CSFA (v1.3.1) is a CSF-like wrapper for nftables that provides familiar ConfigServer Security & Firewall commands mapped to modern nftables equivalents. The project uses a single Bash script (`csfa.sh`) that manages firewall rules through a dedicated inet table called "csfa".
